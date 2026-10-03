@@ -25,7 +25,7 @@ Genres overlap (e.g. rock vs hard-rock), so exact-label matching undercounts goo
 ## Run it locally
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 streamlit run app.py
 ```
 
